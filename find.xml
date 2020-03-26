@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'shopping'" />
-    <option name="defaultScopeName" value="Project 'shopping'" />
-    <option name="SEARCH_SCOPE" value="Project 'shopping'" />
+    <option name="customScope" value="File '...\android\app\build.gradle [shopping_android]'" />
+    <option name="defaultScopeName" value="File '...\android\app\build.gradle [shopping_android]'" />
+    <option name="SEARCH_SCOPE" value="File '...\android\app\build.gradle [shopping_android]'" />
   </component>
 </application>
